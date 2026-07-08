@@ -1,0 +1,50 @@
+[
+  {
+    "id": "college-scam",
+    "title": "The College Scam: How America's Universities Are Bankrupting and Brainwashing Away the Future of America's Youth",
+    "author": "Charlie Kirk",
+    "coverUrl": "https://m.media-amazon.com/images/I/81pNFxMDbnL._SL1500_.jpg",
+    "link": "https://www.amazon.com/dp/1735503738?coliid=I30736Z3YZ4LXS&colid=VWYZH58YYYRX&psc=1&linkCode=ll2&tag=twoselves-20&linkId=b8b03f2f916b86e973e6fe5be4bfe1bc&language=en_US&ref_=as_li_ss_tl",
+    "bgGradient": "from-red-950 to-amber-950/60"
+  },
+  {
+    "id": "capitalism-freedom",
+    "title": "Capitalism and Freedom",
+    "author": "Milton Friedman",
+    "coverUrl": "https://m.media-amazon.com/images/I/618McLpc-qL._SL1280_.jpg",
+    "link": "https://www.amazon.com/dp/022673479X?coliid=I2RG3N42OQH70J&colid=VWYZH58YYYRX&psc=1&linkCode=ll2&tag=twoselves-20&linkId=d397cba9ff8c93620c2429d3002da3c3&language=en_US&ref_=as_li_ss_tl",
+    "bgGradient": "from-blue-950 to-slate-900"
+  },
+  {
+    "id": "gulag-archipelago",
+    "title": "The Gulag Archipelago, Volume 1: An Experiment in Literary Investigation",
+    "author": "Aleksandr Solzhenitsyn",
+    "coverUrl": "https://m.media-amazon.com/images/I/71m4x9+UKHL._SL1500_.jpg",
+    "link": "https://www.amazon.com/dp/0061253715?coliid=I7OYSKSMI0UF3&colid=VWYZH58YYYRX&psc=1&linkCode=ll2&tag=twoselves-20&linkId=ef0de97709f4badd276378cac1d38640&language=en_US&ref_=as_li_ss_tl",
+    "bgGradient": "from-zinc-900 to-red-950"
+  },
+  {
+    "id": "brave-new-world",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "coverUrl": "https://m.media-amazon.com/images/I/71GNqqXuN3L._SL1500_.jpg",
+    "link": "https://www.amazon.com/dp/0060850523?coliid=I1KIM1Z2B1MRAB&colid=VWYZH58YYYRX&psc=1&linkCode=ll2&tag=twoselves-20&linkId=036883826da4b948c8fc183880f80a34&language=en_US&ref_=as_li_ss_tl",
+    "bgGradient": "from-blue-900 to-indigo-950"
+  },
+  {
+    "id": "maga-doctrine",
+    "title": "The MAGA Doctrine: The Only Way to Win",
+    "author": "Charlie Kirk",
+    "coverUrl": "https://m.media-amazon.com/images/I/710kWk8h17L._SL1500_.jpg",
+    "link": "https://www.amazon.com/MAGA-Doctrine-Insightful-Analysis-Conservatism/dp/0063512866?encoding=UTF8&coliid=I3NTL5O41EEONI&colid=VWYZH58YYYRX&linkCode=ll2&tag=twoselves-20&linkId=2bd1ae19aab9e599efb899d1a4ef6330&language=en_US&ref=as_li_ss_tl",
+    "bgGradient": "from-red-950 to-blue-950"
+  },
+  {
+    "id": "discrimination-disparities",
+    "title": "Discrimination and Disparities",
+    "author": "Thomas Sowell",
+    "coverUrl": "https://m.media-amazon.com/images/I/61gZID7H43L._SL1500_.jpg",
+    "link": "https://www.amazon.com/dp/1541645634?coliid=I2V6NBVFXTZFV8&colid=VWYZH58YYYRX&psc=1&linkCode=ll2&tag=twoselves-20&linkId=e825fcb28dec27bb4cd41e6358f7166f&language=en_US&ref_=as_li_ss_tl",
+    "bgGradient": "from-amber-950 to-stone-900"
+  }
+]
