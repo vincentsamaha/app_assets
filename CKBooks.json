@@ -74,5 +74,40 @@
     "author": "Norman L. Geisler",
     "coverUrl": "https://m.media-amazon.com/images/I/71u8eqOE5iL._SL1500_.jpg",
     "link": "https://www.amazon.com/Dont-Have-Enough-Faith-Atheist/dp/1433580756?&linkCode=ll2&tag=twoselves-20&linkId=1cf3c63a3f4858a59e5122555d2c61eb&language=en_US&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "fedpapers",
+    "title": "The Federalist Papers",
+    "author": "Alexander Hamilton, James Madison, John Jay",
+    "coverUrl": "https://m.media-amazon.com/images/I/81iof6PmonL._SL1500_.jpg",
+    "link": "https://www.amazon.com/Federalist-Papers-Dover-Thrift-Editions/dp/0486496368?&linkCode=ll2&tag=twoselves-20&linkId=d351689239db0034f8bbae1bb04f45f6&language=en_US&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "manmeaning",
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "coverUrl": "https://m.media-amazon.com/images/I/81UhnGT7BvL._SL1500_.jpg",
+    "link": "https://www.amazon.com/dp/0807014273?&linkCode=ll2&tag=twoselves-20&linkId=fddeb01fe378a6db5308d39062c50538&language=en_US&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "timeturning",
+    "title": "Time for a Turning Point: Setting a Course Toward Free Markets and Limited Government for Future Generations",
+    "author": "Charlie Kirk, Brent Hamachek",
+    "coverUrl": "https://m.media-amazon.com/images/I/7107CCklq3L._SL1360_.jpg",
+    "link": "https://www.amazon.com/dp/1637583419?&linkCode=ll2&tag=twoselves-20&linkId=d760ad3f16a077965867488032b5e7d4&language=en_US&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "campusbattle",
+    "title": "Campus Battlefield: How Conservatives Can WIN the Battle on Campus and Why It Matters",
+    "author": "Charlie Kirk",
+    "coverUrl": "https://m.media-amazon.com/images/I/71M96kvKB4L._SL1500_.jpg",
+    "link": "https://www.amazon.com/dp/1637589468?&linkCode=ll2&tag=twoselves-20&linkId=2160cfe2043203e1d9b4c20cfed27a0f&language=en_US&ref_=as_li_ss_tl"
+  },
+  {
+    "id": "1984",
+    "title": "1984",
+    "author": "George Orwell",
+    "coverUrl": "https://m.media-amazon.com/images/I/71wANojhEKL._SL1500_.jpg",
+    "link": "https://www.amazon.com/dp/0451524934?&linkCode=ll2&tag=twoselves-20&linkId=211ccd8910e0707d0e73c5bec6bb757d&language=en_US&ref_=as_li_ss_tl"
   }
 ]
